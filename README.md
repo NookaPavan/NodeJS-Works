@@ -16,14 +16,14 @@ $ node server.js
 
 ## Overview
 
-**1. Assignment 1**: Calculator 
+- **Assignment 1**: Calculator 
 
-**2. Assignment 2**: Http CreateServer
+- **Assignment 2**: Http CreateServer
 
-**3. Assignment 3**: ReadFile
+- **Assignment 3**: ReadFile
 
-**4. Assignment 4**: Render HTML using FileStream
+- **Assignment 4**: Render HTML using FileStream
 
-**5. Assignment 5**: Form Input and Store
+- **Assignment 5**: Form Input and Store
 
-**6. Assignment 6**: API for GET,POST,PUT,DELETE employees(JSON)
+- **Assignment 6**: API for GET,POST,PUT,DELETE employees(JSON)
